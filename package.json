@@ -1,5 +1,6 @@
 {
   "name": "mcp-server-asana",
+  "private": true,
   "version": "1.0.0",
   "description": "MCP Server for Asana",
   "repository": {
